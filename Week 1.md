@@ -18,4 +18,6 @@ Als eerst had ik een stand-up vandaag. Darna heb  ik de landingspagina gestyled.
 ![Screenshot 2025-02-04 at 2 27 11 PM](https://github.com/user-attachments/assets/f088c4ea-9982-476a-9760-8648c6eaefb8)
 
 - [ ] Responsive maken
+
+
 ![Screenshot 2025-02-04 at 3 27 19 PM](https://github.com/user-attachments/assets/86cab61d-b8c7-48ac-b47d-4717d067ef12)
