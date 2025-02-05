@@ -27,3 +27,6 @@ Als eerst had ik een stand-up vandaag. Darna heb  ik de landingspagina gestyled.
 **09:12**: Ik ben er achter gekomen dat alle styling die ik heb toegepast inline styling is (daarom stond er dus !important 🤦‍♂️ ). Dit ga ik nu aanpasssen. 
 
 **09:38**: ⬆️ no worries, het was wel gewoon goed. Ik ga weer verder met de media queries
+
+![image](https://github.com/user-attachments/assets/0198f51b-5fff-4f3a-84fb-fd934ef4f70b)
+
