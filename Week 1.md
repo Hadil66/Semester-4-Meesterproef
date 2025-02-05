@@ -32,8 +32,8 @@ Als eerst had ik een stand-up vandaag. Darna heb  ik de landingspagina gestyled.
 **Kind & aandacht**
 - [ ] Intro text een max width geven; hoe roep ik het aan in de css?
 - [ ] Divider in section 1 ten height mee geven, hoe doe ik dat in de custom css? In de page builder styling kan het alleen in px (ik wil het in percentages)
-- [ ] Bulletpoints in de list item zijn custom en nu veel te groot, kan ik het verkleinen?
-- [ ] Image in de blocks dezelfde height meegeven als de container
+- [x] Bulletpoints in de list item zijn custom en nu veel te groot, kan ik het verkleinen?
+- [x] Image in de blocks dezelfde height meegeven als de container
 - [ ] Tekst in de last section hoger zetten
 
 
