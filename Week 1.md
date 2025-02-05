@@ -30,8 +30,19 @@ Als eerst had ik een stand-up vandaag. Darna heb  ik de landingspagina gestyled.
 **09:38**: ⬆️ no worries, het was wel gewoon goed. Ik ga weer verder met de media queries
 
 **Kind & aandacht**
-* Intro text een max width geven; hoe roep ik het aan in de css?
-* Divider in section 1 ten height mee geven, hoe doe ik dat in de custom css? In de page builder styling kan het alleen in px (ik wil het in percentages)
-* Bulletpoints in de list item zijn custom en nu veel te groot, kan ik het verkleinen?
-* Image in de blocks dezelfde height meegeven als de container
-* Tekst in de last section hoger zetten
+- [ ] Intro text een max width geven; hoe roep ik het aan in de css?
+- [ ] Divider in section 1 ten height mee geven, hoe doe ik dat in de custom css? In de page builder styling kan het alleen in px (ik wil het in percentages)
+- [ ] Bulletpoints in de list item zijn custom en nu veel te groot, kan ik het verkleinen?
+- [ ] Image in de blocks dezelfde height meegeven als de container
+- [ ] Tekst in de last section hoger zetten
+
+
+**To do voor morgen:**
+
+- [ ] blocks centreren
+- [ ] afbeelding esther background dubbel
+
+![Screenshot 2025-02-05 at 5 17 21 PM](https://github.com/user-attachments/assets/76fe4f71-7b0b-47e1-ab52-5d79cc8fce1b)
+
+![Screenshot 2025-02-05 at 5 14 34 PM](https://github.com/user-attachments/assets/b5764733-9830-4f87-b471-c1d4ce011965)
+
