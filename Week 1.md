@@ -25,3 +25,5 @@ Als eerst had ik een stand-up vandaag. Darna heb  ik de landingspagina gestyled.
 
 ## Wwoensdag 5 februari
 **09:12**: Ik ben er achter gekomen dat alle styling die ik heb toegepast inline styling is (daarom stond er dus !important 🤦‍♂️ ). Dit ga ik nu aanpasssen. 
+
+**09:38**: ⬆️ no worries, het was wel gewoon goed. Ik ga weer verder met de media queries
