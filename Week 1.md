@@ -11,6 +11,7 @@
 Ik heb de inhoud van de NEI-landingspagina in WPBakery geplaatst en basisstyling toegepast.
 
 ## Dinsdag 4 februari
+
 Als eerst had ik een stand-up vandaag. Darna heb  ik de landingspagina gestyled.
 
 ![Screenshot 2025-02-04 at 12 05 11 PM](https://github.com/user-attachments/assets/158db5ac-c4d3-4af7-9b11-40ac7fc8194c)
