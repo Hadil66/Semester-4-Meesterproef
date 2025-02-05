@@ -21,3 +21,7 @@ Als eerst had ik een stand-up vandaag. Darna heb  ik de landingspagina gestyled.
 
 
 ![Screenshot 2025-02-04 at 3 27 19 PM](https://github.com/user-attachments/assets/86cab61d-b8c7-48ac-b47d-4717d067ef12)
+
+
+## Wwoensdag 5 februari
+**09:12**: Ik ben er achter gekomen dat alle styling die ik heb toegepast inline styling is (daarom stond er dus !important 🤦‍♂️ ). Dit ga ik nu aanpasssen. 
