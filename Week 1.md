@@ -51,7 +51,9 @@ Als eerst had ik een stand-up vandaag. Darna heb  ik de landingspagina gestyled.
 - De `!important` is vaak nodig 👎
 
   
-- `align-items: center` en `display: flex` werken niet.
+- `align-items: center` en `display: flex` werken niet. 
+- ⬆️ Werkt wel:
+Het divje zit in een div. De geneste div kan je geen class geven dus moet je het zo aanroepen: `classnaam div:first-of-type'
 
 ### URL check
 Ik heb de sitemap URL's gecheckt of er ergens verwijst wordt naar ' resengo'. Dat heb ik gedaan door `/sitemap.xml` achter de site te plakken, je krijgt dan alle linkjes te zien. 
