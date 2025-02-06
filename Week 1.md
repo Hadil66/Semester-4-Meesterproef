@@ -40,7 +40,7 @@ Als eerst had ik een stand-up vandaag. Darna heb  ik de landingspagina gestyled.
 **To do voor morgen:**
 
 - [x] blocks centreren
-- [ ] afbeelding esther background dubbel
+- [x] afbeelding esther background dubbel
 
 ![Screenshot 2025-02-05 at 5 17 21 PM](https://github.com/user-attachments/assets/76fe4f71-7b0b-47e1-ab52-5d79cc8fce1b)
 
