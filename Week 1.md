@@ -50,4 +50,5 @@ Als eerst had ik een stand-up vandaag. Darna heb  ik de landingspagina gestyled.
 - Ik heb mijn do do lijstje afgewerkt!
 - De `!important` is vaak nodig 👎
 - `align-items: center` en `display: flex` werken niet.
+- font aanpassen
 - 
