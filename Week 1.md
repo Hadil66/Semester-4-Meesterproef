@@ -54,4 +54,11 @@ Als eerst had ik een stand-up vandaag. Darna heb  ik de landingspagina gestyled.
 - `align-items: center` en `display: flex` werken niet.
 
 ### URL check
-Ik heb de sitemap URL's gecheckt of er ergens verwijst wordt naar ' resengo'. Dat heb ik gedaan door `/sitemap.xml` achter de site te plakken, je krijgt dan alle linkjes te zien.  
+Ik heb de sitemap URL's gecheckt of er ergens verwijst wordt naar ' resengo'. Dat heb ik gedaan door `/sitemap.xml` achter de site te plakken, je krijgt dan alle linkjes te zien. 
+
+first
+```
+    .txt-sctn-1  > div {
+        border: none;
+    }
+``` 
