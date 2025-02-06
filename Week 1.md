@@ -39,10 +39,13 @@ Als eerst had ik een stand-up vandaag. Darna heb  ik de landingspagina gestyled.
 
 **To do voor morgen:**
 
-- [ ] blocks centreren
+- [x] blocks centreren
 - [ ] afbeelding esther background dubbel
 
 ![Screenshot 2025-02-05 at 5 17 21 PM](https://github.com/user-attachments/assets/76fe4f71-7b0b-47e1-ab52-5d79cc8fce1b)
 
 ![Screenshot 2025-02-05 at 5 14 34 PM](https://github.com/user-attachments/assets/b5764733-9830-4f87-b471-c1d4ce011965)
 
+## Donderdag 6 februari
+- Ik heb de blocks gecentreerd.
+- 
