@@ -4,9 +4,9 @@
 - Meer leren -> Wordpress
 - Dropbox
 
-![image](https://github.com/user-attachments/assets/74dc6bab-240d-4900-857b-a4442b8e5092)
+<img src="https://github.com/user-attachments/assets/74dc6bab-240d-4900-857b-a4442b8e5092" width="300px">
 
-![image](https://github.com/user-attachments/assets/3450910a-74b2-491f-8eb4-7af3d60de9ab)
+<img src="https://github.com/user-attachments/assets/3450910a-74b2-491f-8eb4-7af3d60de9ab" width="300px">
 
 Ik heb de inhoud van de NEI-landingspagina in WPBakery geplaatst en basisstyling toegepast.
 
@@ -14,14 +14,14 @@ Ik heb de inhoud van de NEI-landingspagina in WPBakery geplaatst en basisstyling
 
 Als eerst had ik een stand-up vandaag. Darna heb  ik de landingspagina gestyled.
 
-![Screenshot 2025-02-04 at 12 05 11 PM](https://github.com/user-attachments/assets/158db5ac-c4d3-4af7-9b11-40ac7fc8194c)
+<img src="https://github.com/user-attachments/assets/158db5ac-c4d3-4af7-9b11-40ac7fc8194c" width="300px">
 
-![Screenshot 2025-02-04 at 2 27 11 PM](https://github.com/user-attachments/assets/f088c4ea-9982-476a-9760-8648c6eaefb8)
+<img src="https://github.com/user-attachments/assets/f088c4ea-9982-476a-9760-8648c6eaefb8" height="300px">
 
 - [x] Responsive maken
 
 
-![Screenshot 2025-02-04 at 3 27 19 PM](https://github.com/user-attachments/assets/86cab61d-b8c7-48ac-b47d-4717d067ef12)
+<img src="https://github.com/user-attachments/assets/86cab61d-b8c7-48ac-b47d-4717d067ef12" width="300px">
 
 
 ## Wwoensdag 5 februari
@@ -34,7 +34,7 @@ Als eerst had ik een stand-up vandaag. Darna heb  ik de landingspagina gestyled.
 - [ ] Divider in section 1 langer
 - [x] Bulletpoints in de list item zijn custom en nu veel te groot, kan ik het verkleinen?
 - [x] Image in de blocks dezelfde height meegeven als de container
-- [ ] Tekst in de last section hoger zetten
+- [x] Tekst in de last section hoger zetten
 
 
 **To do voor morgen:**
@@ -42,9 +42,9 @@ Als eerst had ik een stand-up vandaag. Darna heb  ik de landingspagina gestyled.
 - [x] blocks centreren
 - [x] afbeelding esther background dubbel
 
-![Screenshot 2025-02-05 at 5 17 21 PM](https://github.com/user-attachments/assets/76fe4f71-7b0b-47e1-ab52-5d79cc8fce1b)
+<img src="https://github.com/user-attachments/assets/76fe4f71-7b0b-47e1-ab52-5d79cc8fce1b" width="300px">
 
-![Screenshot 2025-02-05 at 5 14 34 PM](https://github.com/user-attachments/assets/b5764733-9830-4f87-b471-c1d4ce011965)
+<img src="https://github.com/user-attachments/assets/b5764733-9830-4f87-b471-c1d4ce011965" width="300px">
 
 ## Donderdag 6 februari
 - Ik heb mijn do do lijstje afgewerkt!
@@ -52,3 +52,6 @@ Als eerst had ik een stand-up vandaag. Darna heb  ik de landingspagina gestyled.
 
   
 - `align-items: center` en `display: flex` werken niet.
+
+### URL check
+Ik heb de sitemap URL's gecheckt of er ergens verwijst wordt naar ' resengo'. Dat heb ik gedaan door `/sitemap.xml` achter de site te plakken, je krijgt dan alle linkjes te zien.  
