@@ -47,5 +47,6 @@ Als eerst had ik een stand-up vandaag. Darna heb  ik de landingspagina gestyled.
 ![Screenshot 2025-02-05 at 5 14 34 PM](https://github.com/user-attachments/assets/b5764733-9830-4f87-b471-c1d4ce011965)
 
 ## Donderdag 6 februari
-- Ik heb de blocks gecentreerd.
+- Ik heb mijn do do lijstje afgewerkt!
+- De `!important` is vaak nodig 👎
 - 
