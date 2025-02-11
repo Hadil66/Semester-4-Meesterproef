@@ -21,3 +21,4 @@ Lijstje top 3 fave sites:
 - Ik kreeg uitleg over een ander taakje die ik mag uitvoeren; het schrijven van een blogpost over cache (handig voor indicator: (4.3.3) **4.5.2**
 
 - inner tag html opzoeken
+![Screenshot 2025-02-11 at 5 24 17 PM](https://github.com/user-attachments/assets/2d8d28d9-721a-4a0b-a7be-052548a0d794)
